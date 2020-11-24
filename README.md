@@ -18,9 +18,9 @@ aij = 4/[5(i + j – 1)], bi = 1/(2 i), i – odd; bi = 0, i – even, i, j = 1,
 ## 3
 Write a general program for solving the system of n linear equations Ax = b using the
 Gauss-Seidel and Jacobi iterative algorithms. Apply it for the system:
-13x1 + 2x2 – 8x3 + x4 =16 \n
-x1 + 10x2 + 5x3 – 2x4 = 24 \n
-6x1 + 2x2 – 23x3 + 15x4 = 184 \n
+13x1 + 2x2 – 8x3 + x4 =16 \
+x1 + 10x2 + 5x3 – 2x4 = 24 \
+6x1 + 2x2 – 23x3 + 15x4 = 184 \
 x1 + 2x2 – x3 + 13x4 = 82
 
 ## 4
