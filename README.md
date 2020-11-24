@@ -13,7 +13,7 @@ Aij { for i = j -> 13, for i = j-1 or i = j+1 -> 4, other -> 0 \
 Bi = 2.4 + 0.6i, \
 i,j = 1..n;
 ### b)
-aij = 4/[5(i + j – 1)], bi = 1/(2 i), i – odd; bi = 0, i – even, i, j = 1,…,n;
+Aij = 4/[5(i + j – 1)], Bi = 1/(2 i), i – odd; Bi = 0, i – even, i, j = 1,…,n;
 
 ## 3
 Write a general program for solving the system of n linear equations Ax = b using the
